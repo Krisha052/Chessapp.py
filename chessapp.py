@@ -4,6 +4,7 @@ import os
 import json
 import random
 import time
+hello
 
 pygame.init()
 
