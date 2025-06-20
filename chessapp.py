@@ -5,7 +5,6 @@ import json
 import random
 import time
 
-
 pygame.init()
 
 BLACK_BOARD_COLOR = (125, 193, 235)
